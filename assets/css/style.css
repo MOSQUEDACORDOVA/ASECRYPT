@@ -14195,6 +14195,9 @@ footer .widget {
 .post .post-info a {
   color: #8f9397;
   font-size: 0.875rem;
+  background-color: #4cbd8929;
+    padding: 5px 10px;
+    border-radius: 4px;
 }
 
 .post .post-info a:hover {

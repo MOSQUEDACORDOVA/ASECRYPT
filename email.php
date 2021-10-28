@@ -6,7 +6,7 @@
         $email = $_POST['email'];
 
       // Set your email address where you want to receive emails. 
-       $to = 'donsteran@gmail.com';
+       $to = 'cbfxasecryp@gmail.com';
        $subject = 'Solicitud de contacto desde el sitio web';
        $headers = "From: ".$name." <".$email."> \r\n";
        $message = "Nombre: ".$name."\r\n Telefono: ".$phone."\r\n Correo: ".$email;
